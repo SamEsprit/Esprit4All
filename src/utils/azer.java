@@ -9,6 +9,6 @@ package utils;
  *
  * @author Sami
  */
-public class NewClass {
+public class azer {
     
 }
